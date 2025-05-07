@@ -70,7 +70,7 @@ header.shadow .logo{
 .logo{
     font-size: 1.5rem;
     font-weight: 600;
-    color: var(--bg-color);
+    color: black;
 }
 .logo span{
     color: var(--second-color);
@@ -90,8 +90,8 @@ header.shadow .logo{
 
 .home{
     width: 100%;
-    min-height: 900px;
-    background: url("1681505200015.jpg");
+    min-height: 750px;
+    background: url("image-3.jpg");
     display: grid;
     justify-content: center;
     align-items: center;
